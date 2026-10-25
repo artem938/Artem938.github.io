@@ -156,6 +156,7 @@ pubnative.net, 1009458, RESELLER, d641df8625486a7b
 start.io, 197760873, RESELLER
 stroeer.com, 17379, RESELLER
 thunder-monetize.com, 2158729563, RESELLER
+monetrix.ai, 10761, RESELLER
 bluexad.ai, 1996418805747683328, RESELLER
 conversantmedia.com, 41024, RESELLER, 03113cd04947736d
 smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
